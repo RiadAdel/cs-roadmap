@@ -1,18 +1,18 @@
 ## Computer Science Roadmap (AI Track)
 
-- [x] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
 ### Intro to CS
 
-- [x] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
-- [x] [6.0001 - Introduction to Computer Science and Programming in Python, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-- [x] [6.0002 - Introduction to Computational Thinking and Data Science, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+- [ ] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
+- [ ] [6.0001 - Introduction to Computer Science and Programming in Python, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+- [ ] [6.0002 - Introduction to Computational Thinking and Data Science, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
 ### Programming
 
-- [x] [CS61A - Structure and Interpretation of Computer Programs (Python + Scheme) - UC Berkeley](http://cs61a.org/)
+- [ ] [CS61A - Structure and Interpretation of Computer Programs (Python + Scheme) - UC Berkeley](http://cs61a.org/)
 - [ ] [CS61A - Structure and Interpretation of Computer Programs (Scheme), 2010 - UC Berkeley](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9)
-- [x] [CS106A - Programming Methodology (Java) - Stanford](https://see.stanford.edu/Course/CS106A)
+- [ ] [CS106A - Programming Methodology (Java) - Stanford](https://see.stanford.edu/Course/CS106A)
 - [ ] [CS106B - Programming Abstractions (C++) - Stanford](https://see.stanford.edu/Course/CS106B)
 - [ ] [CS107 - Programming Paradigms - Stanford](https://see.stanford.edu/Course/CS107)
 - [ ] [CSE341 - Programming Languages, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
@@ -23,50 +23,56 @@
 ### Maths
 
 - **Calculus**
-    - [x] [18.01 - Single Variable Calculus, Fall 2006 - MIT](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
-    - [x] [18.02 - Multivariable Calculus, Fall 2007 - MIT](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
-    - [ ] [18.03 - Differential Equations, Spring 2010 - MIT](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
+
+  - [ ] [18.01 - Single Variable Calculus, Fall 2006 - MIT](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+  - [ ] [18.02 - Multivariable Calculus, Fall 2007 - MIT](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
+  - [ ] [18.03 - Differential Equations, Spring 2010 - MIT](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
 
 - **Linear Algebra**
-    - [x] [18.06 - Linear Algebra, Fall 2011 - MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
-    - [ ] [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html)
-    - [ ] [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
+
+  - [ ] [18.06 - Linear Algebra, Fall 2011 - MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+  - [ ] [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html)
+  - [ ] [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 
 - **Probability and Statistics**
-    - [x] [6.041 - Probabilistic Systems Analysis and Applied Probability, Fall 2013 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
-    - [ ] [STAT110 - Probability - Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-    - [ ] [18.650 - Statistics for Applications, Fall 2016 - MIT](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/)
-    - [ ] [36-705 - Intermediate Statistics, Fall 2016 - CMU](http://www.stat.cmu.edu/~larry/=stat705/)
-    - [ ] [6.262 - Discrete Stochastic Processes, Spring 2011 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/)
-    - [ ] [AM207 - Stochastic Methods for Data Analysis, Inference and Optimization, 2016 - Harvard](http://am207.github.io/2016/index.html)
 
--  **Discrete Maths**
-    - [x] [6.042J - Mathematics for Computer Science, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+  - [ ] [6.041 - Probabilistic Systems Analysis and Applied Probability, Fall 2013 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+  - [ ] [STAT110 - Probability - Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+  - [ ] [18.650 - Statistics for Applications, Fall 2016 - MIT](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/)
+  - [ ] [36-705 - Intermediate Statistics, Fall 2016 - CMU](http://www.stat.cmu.edu/~larry/=stat705/)
+  - [ ] [6.262 - Discrete Stochastic Processes, Spring 2011 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/)
+  - [ ] [AM207 - Stochastic Methods for Data Analysis, Inference and Optimization, 2016 - Harvard](http://am207.github.io/2016/index.html)
 
--  **Opmitisation**
-    - [ ] [EE364A - Convex Optimization I - Stanford](https://see.stanford.edu/Course/EE364A)
-    - [ ] [EE364B - Convex Optimization II - Stanford](https://see.stanford.edu/Course/EE364B)
-    - [ ] [10-725 - Convex Optimization, Fall 2016 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
-    - [ ] [10-801 - Advanced Optimization and Randomized Methods, Spring 2014 - CMU](http://www.cs.cmu.edu/~suvrit/teach/aopt.html)
+- **Discrete Maths**
+
+  - [ ] [6.042J - Mathematics for Computer Science, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+
+- **Opmitisation**
+
+  - [ ] [EE364A - Convex Optimization I - Stanford](https://see.stanford.edu/Course/EE364A)
+  - [ ] [EE364B - Convex Optimization II - Stanford](https://see.stanford.edu/Course/EE364B)
+  - [ ] [10-725 - Convex Optimization, Fall 2016 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
+  - [ ] [10-801 - Advanced Optimization and Randomized Methods, Spring 2014 - CMU](http://www.cs.cmu.edu/~suvrit/teach/aopt.html)
 
 - **Maths for ML (mostly books)**
-    - [ ] [10-606 - Math Background for Machine Learning, Fall 2017 - CMU](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA)
-    - [ ] [18-657 - Mathematics of Machine Learning, Fall 2015 - MIT](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/)
-    - [ ] [CO-496 - Mathematics for Inference and Machine Learning - Imperial College](http://wp.doc.ic.ac.uk/sml/teaching/mathematics-for-machine-learning-autumn-2016/)
-    - [ ] [Book - Mathematics for Machine Learning - Imperial College](https://mml-book.com/)
-    - [ ] [Book - Mathematics for Machine Learning - UC Berkeley](http://gwthomas.github.io/docs/math4ml.pdf)
+
+  - [ ] [10-606 - Math Background for Machine Learning, Fall 2017 - CMU](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA)
+  - [ ] [18-657 - Mathematics of Machine Learning, Fall 2015 - MIT](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/)
+  - [ ] [CO-496 - Mathematics for Inference and Machine Learning - Imperial College](http://wp.doc.ic.ac.uk/sml/teaching/mathematics-for-machine-learning-autumn-2016/)
+  - [ ] [Book - Mathematics for Machine Learning - Imperial College](https://mml-book.com/)
+  - [ ] [Book - Mathematics for Machine Learning - UC Berkeley](http://gwthomas.github.io/docs/math4ml.pdf)
 
 - **Other**
-    - [ ] [MOOC - Introduction to Logic - Stanford](https://www.coursera.org/learn/logic-introduction/)
-    - [ ] [18.S096 - Topics in Mathematics with Application in Finance, Fall 2013 - MIT](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
-    - [ ] [MOOC - Game Theory - Stanford](https://www.coursera.org/learn/game-theory-1)
-    - [x] [MOOC - Discrete Optimization - University of Melbourne](https://www.coursera.org/learn/discrete-optimization)
-    - [ ] [Operations Research - SUNY Binghamton University](https://www.youtube.com/playlist?list=PLgA4wLGrqI-ll9OSJmR5nU4lV4_aNTgKx)
-    - [ ] [Linear Programming, Fall 2016 - Penn State University](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
+  - [ ] [MOOC - Introduction to Logic - Stanford](https://www.coursera.org/learn/logic-introduction/)
+  - [ ] [18.S096 - Topics in Mathematics with Application in Finance, Fall 2013 - MIT](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+  - [ ] [MOOC - Game Theory - Stanford](https://www.coursera.org/learn/game-theory-1)
+  - [ ] [MOOC - Discrete Optimization - University of Melbourne](https://www.coursera.org/learn/discrete-optimization)
+  - [ ] [Operations Research - SUNY Binghamton University](https://www.youtube.com/playlist?list=PLgA4wLGrqI-ll9OSJmR5nU4lV4_aNTgKx)
+  - [ ] [Linear Programming, Fall 2016 - Penn State University](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
 
 ### Data Structures and Algorithms
 
-- [x] [CS61B - Data Structures, Spring 2019 - UC Berkeley](https://sp19.datastructur.es/)
+- [ ] [CS61B - Data Structures, Spring 2019 - UC Berkeley](https://sp19.datastructur.es/)
 - [ ] [6.006 - Introduction to Algorithms, Fall 2011 - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [ ] [COS226 - Algorithms - Princeton](https://algs4.cs.princeton.edu/home/)
 - [ ] [6.046J - Design and Analysis of Algorithms, Spring 2015 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
@@ -101,7 +107,7 @@
 
 ### Database Systems
 
-- [x] [CS145 - Introduction to Databases - Stanford](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
+- [ ] [CS145 - Introduction to Databases - Stanford](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
 - [ ] [CS186 - Introduction to Database Systems, Spring 2015 - UC Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y)
 - [ ] [15-445 - Introduction to Database Systems, Fall 2017 - CMU](https://15445.courses.cs.cmu.edu/fall2017/)
 - [ ] [15-721 - Advanced Database Systems, Spring 2018 - CMU](https://15721.courses.cs.cmu.edu/spring2018/)
@@ -125,60 +131,65 @@
 ### Machine Learning and Artificial Intelligence
 
 - **Artificial Intelligence**
-    - [ ] [CS188 - Introduction to Artificial Intelligence, Fall 2018 - UC Berkeley](https://inst.eecs.berkeley.edu/~cs188/fa18/)
-    - [ ] [6.034 - Artificial Intelligence, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
-    - [ ] [15-780 - Graduate Artificial Intelligence, Spring 2017 - CMU](https://www.youtube.com/playlist?list=PLpIxOj-HnDsPfw9slkk0BfwuiNEYVnsd_)
-    - [ ] [CS221 - Artificial Intelligence: Principles and Techniques, Fall 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+
+  - [ ] [CS188 - Introduction to Artificial Intelligence, Fall 2018 - UC Berkeley](https://inst.eecs.berkeley.edu/~cs188/fa18/)
+  - [ ] [6.034 - Artificial Intelligence, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+  - [ ] [15-780 - Graduate Artificial Intelligence, Spring 2017 - CMU](https://www.youtube.com/playlist?list=PLpIxOj-HnDsPfw9slkk0BfwuiNEYVnsd_)
+  - [ ] [CS221 - Artificial Intelligence: Principles and Techniques, Fall 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 
 - **Machine Learning**
-    - [ ] [STATS216 - Statistical Learning, Winter 2016 - Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-    - [x] [CS229 - Machine Learning - Stanford](https://see.stanford.edu/course/cs229)
-    - [ ] [CS155 - Machine Learning & Data Mining, Winter 2017 - Caltech](http://www.yisongyue.com/courses/cs155/2017_winter/)
-    - [ ] [CS156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
-    - [ ] [10-601 - Introduction to Machine Learning (MS), Spring 2015 - CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
-    - [ ] [10-701 - Introduction to Machine Learning (PhD), Spring 2011 - CMU](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
-    - [ ] [10-702 - Statistical Machine Learning, Spring 2015 - CMU](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r)
-    - [ ] [Information Theory, Pattern Recognition, and Neural Networks, 2012 - Cambridge](http://www.inference.org.uk/itprnn/)
-    - [ ] [CS189/281A - Introduction to Machine Learning, Spring 2016 - UC Berkeley](https://people.eecs.berkeley.edu/~jrs/189s16/)
-    - [ ] [C281B - Scalable Machine Learning, 2012 - UC Berkeley](http://alex.smola.org/teaching/berkeley2012/syllabus.html)
-    - [ ] [STA4273H - Large Scale Machine Learning, Winter 2015 - University of Toronto](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html)
-    - [ ] [18.409 - Algorithmic Aspects of Machine Learning, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)
-    - [ ] [9.520 - Statistical Learning Theory and Applications, Fall 2015 - MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
-    - [ ] [CPSC530 - Undergraduate Machine Learning, 2012 - University of British Columbia](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
-    - [ ] [CPSC540 - Graduate Machine Learning, 2013 - University of British Columbia](https://www.cs.ubc.ca/~nando/540-2013/lectures.html)
+
+  - [ ] [STATS216 - Statistical Learning, Winter 2016 - Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+  - [ ] [CS229 - Machine Learning - Stanford](https://see.stanford.edu/course/cs229)
+  - [ ] [CS155 - Machine Learning & Data Mining, Winter 2017 - Caltech](http://www.yisongyue.com/courses/cs155/2017_winter/)
+  - [ ] [CS156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
+  - [ ] [10-601 - Introduction to Machine Learning (MS), Spring 2015 - CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
+  - [ ] [10-701 - Introduction to Machine Learning (PhD), Spring 2011 - CMU](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+  - [ ] [10-702 - Statistical Machine Learning, Spring 2015 - CMU](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r)
+  - [ ] [Information Theory, Pattern Recognition, and Neural Networks, 2012 - Cambridge](http://www.inference.org.uk/itprnn/)
+  - [ ] [CS189/281A - Introduction to Machine Learning, Spring 2016 - UC Berkeley](https://people.eecs.berkeley.edu/~jrs/189s16/)
+  - [ ] [C281B - Scalable Machine Learning, 2012 - UC Berkeley](http://alex.smola.org/teaching/berkeley2012/syllabus.html)
+  - [ ] [STA4273H - Large Scale Machine Learning, Winter 2015 - University of Toronto](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html)
+  - [ ] [18.409 - Algorithmic Aspects of Machine Learning, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)
+  - [ ] [9.520 - Statistical Learning Theory and Applications, Fall 2015 - MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
+  - [ ] [CPSC530 - Undergraduate Machine Learning, 2012 - University of British Columbia](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
+  - [ ] [CPSC540 - Graduate Machine Learning, 2013 - University of British Columbia](https://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 
 - **Deep Learning**
-    - [ ] [CS230 - Deep Learning, Fall 2018 - Stanford](http://cs230.stanford.edu/)
-    - [ ] [6.S191 - Introduction to Deep Learning - MIT](http://introtodeeplearning.com/)
-    - [ ] [Machine Learning, Fall 2014 - University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-    - [ ] [CSC321 - Neural Networks for Machine Learning - University of Toronto](https://www.coursera.org/learn/neural-networks)
-    - [ ] [MOOC - Deep Learning Specialisation- deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
-    - [x] [CS231N - Convolutional Neural Networks for Visual Recognition, Spring 2017 - Stanford](http://cs231n.stanford.edu/2017/)
-    - [x] [CS224N - Natural Language Processing with Deep Learning, Winter 2019 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-    - [ ] [CS224U - Natural Language Understanding, Spring 2019 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
-    - [ ] [Deep Learning for Natural Language Processing - Oxford](https://github.com/oxford-cs-deepnlp-2017/lectures)
-    - [ ] [6.S094 - Deep Learning for Self-Driving Cars - MIT](https://selfdrivingcars.mit.edu/)
-    - [ ] [CS294-129 - Designing, Visualizing and Understanding Deep Neural Networks, Fall 2016 - UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
-    - [ ] [CS330 - Deep Multi-Task Learning and Meta Learning, Winter 2019 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
-    - [ ] [CS294-158 - Deep Unsupervised Learning, Spring 2020 - UC Berkeley](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
+
+  - [ ] [CS230 - Deep Learning, Fall 2018 - Stanford](http://cs230.stanford.edu/)
+  - [ ] [6.S191 - Introduction to Deep Learning - MIT](http://introtodeeplearning.com/)
+  - [ ] [Machine Learning, Fall 2014 - University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+  - [ ] [CSC321 - Neural Networks for Machine Learning - University of Toronto](https://www.coursera.org/learn/neural-networks)
+  - [ ] [MOOC - Deep Learning Specialisation- deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
+  - [ ] [CS231N - Convolutional Neural Networks for Visual Recognition, Spring 2017 - Stanford](http://cs231n.stanford.edu/2017/)
+  - [ ] [CS224N - Natural Language Processing with Deep Learning, Winter 2019 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+  - [ ] [CS224U - Natural Language Understanding, Spring 2019 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
+  - [ ] [Deep Learning for Natural Language Processing - Oxford](https://github.com/oxford-cs-deepnlp-2017/lectures)
+  - [ ] [6.S094 - Deep Learning for Self-Driving Cars - MIT](https://selfdrivingcars.mit.edu/)
+  - [ ] [CS294-129 - Designing, Visualizing and Understanding Deep Neural Networks, Fall 2016 - UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
+  - [ ] [CS330 - Deep Multi-Task Learning and Meta Learning, Winter 2019 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+  - [ ] [CS294-158 - Deep Unsupervised Learning, Spring 2020 - UC Berkeley](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 
 - **Reinforcement Learning**
-    - [ ] [CS294 - Deep Reinforcement Learning, Fall 2018 - UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
-    - [ ] [COMPM050 - Reinforcement Learning, 2015 - UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
-    - [ ] [CS885 - Reinforcement Learning, Spring 2018 - University of Waterloo](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/index.html)
-    - [ ] [Advanced Deep Learning & Reinforcement Learning - DeepMind & UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
-    - [ ] [CS294-112 - Deep Reinforcement Learning, Fall 2018 - UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
-    - [ ] [CS234 - Reinforcement Learning, Winter 2019 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+
+  - [ ] [CS294 - Deep Reinforcement Learning, Fall 2018 - UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
+  - [ ] [COMPM050 - Reinforcement Learning, 2015 - UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
+  - [ ] [CS885 - Reinforcement Learning, Spring 2018 - University of Waterloo](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/index.html)
+  - [ ] [Advanced Deep Learning & Reinforcement Learning - DeepMind & UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+  - [ ] [CS294-112 - Deep Reinforcement Learning, Fall 2018 - UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
+  - [ ] [CS234 - Reinforcement Learning, Winter 2019 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 - **Probabilistic Graphical Models**
-    - [ ] [10-708 - Probabilistic Graphical Models, Spring 2014 - CMU](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
-    - [ ] [CS228 - Probabilistic Graphical Models - Stanford](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ProbabilisticGraphicalModels)
+
+  - [ ] [10-708 - Probabilistic Graphical Models, Spring 2014 - CMU](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
+  - [ ] [CS228 - Probabilistic Graphical Models - Stanford](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ProbabilisticGraphicalModels)
 
 - **Miscs**
-    - [ ] [CS246 - Mining of Massive Datasets - Stanford](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
-    - [ ] [MOOC - Data Mining - University of Illinois](https://www.coursera.org/specializations/data-mining)
-    - [ ] [MOOC - Recommender Systems - University of Minnesota](https://www.coursera.org/specializations/recommender-systems)
-    - [ ] [Information Retrival, Fall 2017 - University of Freiburg](https://ad-wiki.informatik.uni-freiburg.de/teaching/InformationRetrievalWS1718)
-    - [ ] [Information Retrieval and Web Search Engines, Winter 2015 - Technische Universität Braunschweig](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/IRWS)
-    - [ ] [CS224W - Machine Learning with Graphs, Fall 2019 - Stanford](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE)
-    - [ ] [CS520 - Knowledge Graphs Seminar, Spring 2020 - Stanford](https://www.youtube.com/playlist?list=PLDhh0lALedc7LC_5wpi5gDnPRnu1GSyRG)
+  - [ ] [CS246 - Mining of Massive Datasets - Stanford](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
+  - [ ] [MOOC - Data Mining - University of Illinois](https://www.coursera.org/specializations/data-mining)
+  - [ ] [MOOC - Recommender Systems - University of Minnesota](https://www.coursera.org/specializations/recommender-systems)
+  - [ ] [Information Retrival, Fall 2017 - University of Freiburg](https://ad-wiki.informatik.uni-freiburg.de/teaching/InformationRetrievalWS1718)
+  - [ ] [Information Retrieval and Web Search Engines, Winter 2015 - Technische Universität Braunschweig](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/IRWS)
+  - [ ] [CS224W - Machine Learning with Graphs, Fall 2019 - Stanford](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE)
+  - [ ] [CS520 - Knowledge Graphs Seminar, Spring 2020 - Stanford](https://www.youtube.com/playlist?list=PLDhh0lALedc7LC_5wpi5gDnPRnu1GSyRG)
